@@ -23,7 +23,7 @@ A collection of datasets well suited to teaching R to beginners
 
 - [Lalonde](https://github.com/jjchern/lalonde): a dataset from a 1970s study on a worker training program
 
-## Fake data
+## Fake Data
 
 R packages to make fake datasets.
 
