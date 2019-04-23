@@ -45,3 +45,4 @@ R packages to make fake datasets.
 - [CDC data hub](https://www.cdc.gov/ophss/csels/dhis/overview.html): Collection of health-related datasets
 - [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday): "Join the R4DS online learning community in the weekly #TidyTuesday event! Every week we post a raw dataset, an original chart associated with that dataset, and ask you to apply your take on the chart. While the data set will be “tamed”, it will not always be tidy!"
 - [Tableau blog post by Jacob Olsufka](https://www.tableau.com/about/blog/2019/2/public-data-sets-102221): This blog post has great ideas for places to find publicly available datasets.
+- [socviz](https://kjhealy.github.io/socviz/reference/index.html): Datasets used in Kieran Healy's book [Data Visualization: A Practical Introduction](http://socviz.co/)
